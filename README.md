@@ -1,5 +1,5 @@
 # Entity-Extraction
-Input a question and returns keywords which can be used to search files using Rasa
+Input a question and return keywords which can be used to search files using Rasa
 
 
 ## Installation
