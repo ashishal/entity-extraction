@@ -25,16 +25,16 @@ Input a question and returns keywords which can be used to search files using Ra
  ```
  6. unzip the files to the required directory
  7. Run actions.py
- 8. ##Example
-    ```bash
+ ## Example
+ ```bash
         Enter your query?
         what is the production quota of asset Lower Zakum ?
         production Lower Zakum
         Enter your query?
         bye
-     ```
-  9. Comment train_nlu() if you dont want to train the model after initial modeling
-  10. To add more intents and locations. Go to ./Data/nlu.md
+ ```
+  8. Comment train_nlu() if you dont want to train the model after initial modeling
+  9. To add more intents and locations for your questions. Go to ./Data/nlu.md
   ```md
       '##intent'- keyword you want to extract
       Under intent, give your questions for each intent using a '-'
