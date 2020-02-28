@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\aksha\\Downloads\\Thama\\rasa-nlu\\models\\nlu\\chatter\\component_6_EmbeddingIntentClassifier.ckpt"
+all_model_checkpoint_paths: "C:\\Users\\aksha\\Downloads\\Thama\\rasa-nlu\\models\\nlu\\chatter\\component_6_EmbeddingIntentClassifier.ckpt"

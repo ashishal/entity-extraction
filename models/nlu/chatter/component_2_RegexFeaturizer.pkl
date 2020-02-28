@@ -1,0 +1,10 @@
+[
+    {
+        "name": "location",
+        "pattern": "(?i)(\\bDelhi\\b|\\bBombay\\b|\\bPune\\b|\\bUAE\\b|\\bHYD\\b|\\bKochi\\b|\\bTN\\b|\\bDubai\\b|\\bAbu\\ al\\ Abyad\\b|\\bGhantoot\\b|\\bHabshan\\b|\\bAl\\-Bahiyah\\b|\\bHabshan\\b|\\bLower\\ Zakum\\b|\\bGhayathi\\b|\\bGhuwaifat\\b|\\bHabshan\\b|\\bLiwa\\ Oasis\\b|\\bMarawah\\ Island\\b|\\bRuwais\\b|\\bSila\\b|\\bSir\\ Bani\\ Yas\\b|\\bAl\\ Ain\\b|\\bAl\\-Faqa\\b|\\bAl\\-Hayer\\b|\\bAl\\-Qu\\'a\\b|\\bAl\\-Shwaib\\b|\\bAl\\-Wagan\\b|\\bAl\\-Yahar\\b|\\bMezyad\\b|\\bNahil\\b|\\bRemah\\b|\\bSa\\'ah\\b|\\bSweihan\\b)"
+    },
+    {
+        "name": "date",
+        "pattern": "(?i)(\\b\\[last\\ year\\]\\(date\\)\\b|\\b\\[this\\ year\\]\\(date\\)\\b|\\b\\[current\\ year\\]\\(date\\)\\b|\\b\\[next\\ year\\]\\(date\\)\\b|\\b\\[this\\ financial\\ year\\]\\(date\\)\\b|\\b\\[09\\-01\\-2019\\]\\(date\\)\\b|\\b\\[2019\\]\\(date\\)\\b|\\b\\[2021\\ year\\]\\(date\\)\\b|\\b\\[2021\\-2025\\]\\(date\\)\\b)"
+    }
+]
