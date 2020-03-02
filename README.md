@@ -6,22 +6,24 @@ Input a question and return keywords which can be used to search files using Ras
 1. Create an Environment for this project with Python=3.6
 2. Install Rasa 
   ```bash
-    pip install rasa
-    pip install rasa[spacy]
-    python -m spacy download en_core_web_md
-    python -m spacy link en_core_web_md en
+pip install rasa
+pip install rasa[spacy]
+python -m spacy download en_core_web_md
+python -m spacy link en_core_web_md en
+pip install -r requirements.txt
   ```
+  Requirements file should install all necessary dependencies. Go to step 6 
 3. Install Rasa Core 
   ```bash
-    pip install rasa_core
+pip install rasa_core
   ```
 4. Install Rasa NLU for intent classification & entity extraction.  
   ```bash
-    pip install rasa_nlu
+pip install rasa_nlu
   ```
  5. Python SDK for the development of custom actions for Rasa Core.
  ```bash
-    pip install rasa_core_sdk
+pip install rasa_core_sdk
  ```
  6. unzip the files to the required directory
  7. Run actions.py
