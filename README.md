@@ -12,7 +12,8 @@ python -m spacy download en_core_web_md
 python -m spacy link en_core_web_md en
 pip install -r requirements.txt
   ```
-  Requirements file should install all necessary dependencies. Go to step 6 
+Requirements file should install all necessary dependencies. Go to step 6
+
 3. Install Rasa Core 
   ```bash
 pip install rasa_core
